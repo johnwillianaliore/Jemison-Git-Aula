@@ -1,6 +1,6 @@
 projeto de fixação do módulo de revisão React1/.
 
-Deploy do App: https//adhesive-dolls.surge.sh
+Deploy do App: https://adhesive-dolls.surge.sh
 
 Implementação O projeto possui as seguintes funcionalidades:
 
